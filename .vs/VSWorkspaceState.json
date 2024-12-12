@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\Catalog",
+    "\\src\\Services\\Catalog\\Catalog.API",
+    "\\src\\Services\\Catalog\\Catalog.API\\Products",
+    "\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct"
+  ],
+  "SelectedNode": "\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+  "PreviewInSolutionExplorer": false
+}
