@@ -1,0 +1,1 @@
+C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

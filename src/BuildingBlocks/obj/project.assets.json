@@ -176,11 +176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tkeskin\\Desktop\\NetProject\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+      "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
       "projectName": "BuildingBlocks",
-      "projectPath": "C:\\Users\\tkeskin\\Desktop\\NetProject\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+      "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
       "packagesPath": "C:\\Users\\tkeskin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tkeskin\\Desktop\\NetProject\\EShopMicroservices\\src\\BuildingBlocks\\obj\\",
+      "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tkeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",

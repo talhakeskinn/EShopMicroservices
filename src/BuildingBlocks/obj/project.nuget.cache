@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3XI5mvCUcU=",
+  "dgSpecHash": "LahIX0EaRV4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tkeskin\\Desktop\\NetProject\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+  "projectFilePath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tkeskin\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\tkeskin\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
