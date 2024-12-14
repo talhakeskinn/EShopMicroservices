@@ -315,3 +315,4 @@ C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\Services\Catalog\
 C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

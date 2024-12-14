@@ -1,4 +1,6 @@
-﻿namespace Catalog.API.Products.CreateProduct
+﻿using FluentValidation;
+
+namespace Catalog.API.Products.CreateProduct
 {
     public record CreateProductCommand<CreateProductResult>(string Name, List<string> Category, string Description, string ImageFile, decimal Price) : ICommand<CreateProductResult>;
     public record CreateProductResult(Guid Id);
@@ -18,6 +20,18 @@
             await session.SaveChangesAsync(cancellationToken);
 
             return new CreateProductResult(product.Id);
+        }
+    }
+
+    public class CreateProductCommandValidator : AbstractValidator<CreateProductCommand<CreateProductResult>>
+    {
+
+        public CreateProductCommandValidator()
+        {
+            RuleFor(p => p.Name).NotEmpty().WithMessage("Name is required");
+            RuleFor(x => x.Category).NotEmpty().WithMessage("Category is required");
+            RuleFor(x => x.ImageFile).NotEmpty().WithMessage("ImageFile is required");
+            RuleFor(x => x.Price).GreaterThan(0).WithMessage("Price must be greater than 0");
         }
     }
 }
