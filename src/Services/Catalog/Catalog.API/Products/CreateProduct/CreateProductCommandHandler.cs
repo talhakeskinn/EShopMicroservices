@@ -1,4 +1,4 @@
-﻿using FluentValidation;
+﻿
 
 namespace Catalog.API.Products.CreateProduct
 {
