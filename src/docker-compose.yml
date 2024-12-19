@@ -3,6 +3,11 @@ services:
     image: postgres
     volumes:
       - postgres_catalog:/var/lib/postgresql/data  
+  basketdb:
+    image: postgres
+    volumes:
+      - postgres_basket:/var/lib/postgresql/data  
 volumes:
   postgres_catalog:
+  postgres_basket:
 

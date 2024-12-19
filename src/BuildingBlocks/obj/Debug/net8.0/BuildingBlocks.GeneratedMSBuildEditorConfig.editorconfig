@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BuildingBlocks
-build_property.ProjectDir = C:\Users\tkeskin\Documents\tk\NetProject\EShopmicroservice\src\BuildingBlocks\
+build_property.ProjectDir = C:\Users\tkeskin\Documents\tk\EShopmicroservice\src\BuildingBlocks\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

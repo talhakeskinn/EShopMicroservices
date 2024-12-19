@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
+    "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\tkeskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\obj\\",
+        "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
               "version": "[11.11.0, )"
@@ -79,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\tkeskin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tkeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
-                "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj"
+              "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj"
               }
             }
           }

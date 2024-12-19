@@ -1,22 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\",
+  "WorkspaceRootPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\netproject\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\netproject\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B844AEC-A32C-49F1-8075-4234FFA52C9C}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\tkeskin\\documents\\tk\\netproject\\eshopmicroservice\\src\\buildingblocks\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\models\\shoppingcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\models\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\data\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\storebasket\\storebasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\storebasket\\storebasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\deletebasket\\deletebasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\getbasket\\getbasketqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\getbasket\\getbasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket\\deletebasket\\deletebasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6EA286-17E8-4302-BD50-6E4381C3F541}|..\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CA8612E4-0CFB-472B-ABE7-D7210A90F2E2}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\globalusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\globalusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B844AEC-A32C-49F1-8075-4234FFA52C9C}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\buildingblocks\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B844AEC-A32C-49F1-8075-4234FFA52C9C}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\netproject\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B844AEC-A32C-49F1-8075-4234FFA52C9C}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\buildingblocks\\behaviors\\loggingbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B844AEC-A32C-49F1-8075-4234FFA52C9C}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\behaviors\\loggingbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\tkeskin\\documents\\tk\\eshopmicroservice\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C77798-AE04-493C-8C0F-CBC874820384}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +114,398 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "UpdateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T21:58:08.639Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T20:21:18.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCardItem.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Models\\ShoppingCardItem.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Models\\ShoppingCardItem.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Models\\ShoppingCardItem.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Models\\ShoppingCardItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:19:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCard.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Models\\ShoppingCard.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Models\\ShoppingCard.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Models\\ShoppingCard.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Models\\ShoppingCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:19:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:18:36.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:18:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T20:13:20.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-19T20:06:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-19T20:06:47.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\GlobalUsing.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:19:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:20:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T20:21:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreBasketCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:16:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:23.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetBasketQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketQueryHandler.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketQueryHandler.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:37.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:45.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteBasketCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketCommandHandler.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketCommandHandler.cs",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Basket.API",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "..\\Basket\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "..\\Basket\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T20:13:52.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAEkAAAAAAAAAAABBwFkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-19T20:08:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T20:06:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Dockerfile",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T20:06:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CatalogInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Data\\CatalogInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:09:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GlobalUsage.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\GlobalUsage.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\GlobalUsage.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\GlobalUsage.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\GlobalUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:12:44.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:12:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoggingBehaviors.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\LoggingBehaviors.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Behaviors\\LoggingBehaviors.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\LoggingBehaviors.cs",
+              "RelativeToolTip": "BuildingBlocks\\Behaviors\\LoggingBehaviors.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:45:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:24:57.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:55:08.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 23,
               "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "RelativeToolTip": "BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:24:29.192Z"
+              "WhenOpened": "2024-12-14T14:24:29.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 29,
               "Title": "UpdateProductEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\NetProject\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:19:15.606Z"
+              "WhenOpened": "2024-12-14T14:19:15.606Z",
+              "EditorCaption": ""
             }
           ]
         }
