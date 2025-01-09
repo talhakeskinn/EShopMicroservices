@@ -49,3 +49,16 @@ C:\Users\tkeskin\Documents\tk\EShopmicroservice\src\BuildingBlocks\obj\Debug\net
 C:\Users\tkeskin\Documents\tk\EShopmicroservice\src\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
 C:\Users\tkeskin\Documents\tk\EShopmicroservice\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
 C:\Users\tkeskin\Documents\tk\EShopmicroservice\src\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\Talha Keskin\Documents\dotnetProjects\EShopMicroservices\src\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll

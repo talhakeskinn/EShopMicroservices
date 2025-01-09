@@ -20,6 +20,12 @@ builder.Services.AddMarten(opts =>
     opts.Schema.For<ShoppingCard>().Identity(x => x.UserName);
 }).UseLightweightSessions();
 
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+    //options.InstanceName = "Basket";
+});
+
 builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 
 var app = builder.Build();

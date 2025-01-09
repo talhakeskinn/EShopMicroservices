@@ -285,19 +285,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tkeskin\\.nuget\\packages\\": {}
+    "C:\\Users\\Talha Keskin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+      "projectUniqueName": "C:\\Users\\Talha Keskin\\Documents\\dotnetProjects\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks.csproj",
       "projectName": "BuildingBlocks",
-      "projectPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\BuildingBlocks.csproj",
-      "packagesPath": "C:\\Users\\tkeskin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tkeskin\\Documents\\tk\\EShopmicroservice\\src\\BuildingBlocks\\obj\\",
+      "projectPath": "C:\\Users\\Talha Keskin\\Documents\\dotnetProjects\\EShopMicroservices\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+      "packagesPath": "C:\\Users\\Talha Keskin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Talha Keskin\\Documents\\dotnetProjects\\EShopMicroservices\\src\\BuildingBlocks\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\tkeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Talha Keskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -305,7 +310,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -323,7 +327,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -366,7 +371,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

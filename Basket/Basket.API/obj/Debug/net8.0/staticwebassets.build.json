@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Dq05Wuau+KWr4ZiWDBEYHoFeOLfZvN0PDgbMq+PaKiE=",
+  "Hash": "nmy5B/uXFemrRNSZKM7hGMAEIaDALNKffw45mj8OyjI=",
   "Source": "Basket.API",
   "BasePath": "_content/Basket.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
